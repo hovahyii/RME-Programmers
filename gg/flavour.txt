@@ -1,0 +1,12 @@
+Name : cookie
+
+Favorite Food : chocolate
+
+Color : Rainbow
+
+Age: 10
+
+Course: Design
+
+University: NUS
+
